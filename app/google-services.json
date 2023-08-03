@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "575229124814",
+    "project_id": "holafirebase-58392",
+    "storage_bucket": "holafirebase-58392.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575229124814:android:0d498442da3ca7bd2a709f",
+        "android_client_info": {
+          "package_name": "com.edu.holafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575229124814-pgb66ef120b58en82n54u6jcebbgvvkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdiLvbmtQhe2TXAcfcBppklwRQkHxlDZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575229124814-pgb66ef120b58en82n54u6jcebbgvvkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575229124814:android:6b790edbe7811c012a709f",
+        "android_client_info": {
+          "package_name": "com.example.miprimerproyect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575229124814-pgb66ef120b58en82n54u6jcebbgvvkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdiLvbmtQhe2TXAcfcBppklwRQkHxlDZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575229124814-pgb66ef120b58en82n54u6jcebbgvvkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
